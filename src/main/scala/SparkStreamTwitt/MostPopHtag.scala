@@ -58,7 +58,7 @@ object MostPopHtag extends App {
 
     // Now count them up over a 30 minute window sliding every 30s
     val hashtagCounts = hashtagKeyValues
-      .reduceByKeyAndWindow( _ + _, _ - _, Seconds(1800), Seconds(30))
+      .reduceByKeyAndWindow( _ + _, _ - _, Seconds(1800), Seconds(60))
 
     // Sort the results by the count values
     val sortedResults = hashtagCounts.transform(rdd => rdd.sortBy(x => x._2, false))

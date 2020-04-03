@@ -1,7 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76a876cc-045d-47ea-9c28-366d3eb3922e" name="Default Changelist" comment="" />
+    <list default="true" id="76a876cc-045d-47ea-9c28-366d3eb3922e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/SparkStreamTwitt-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/SparkStreamTwitt-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/SparkStreamTwitt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/SparkStreamTwitt.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1585728470000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1585728480000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1585728490000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1585728500000.bk.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1585728500000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1585728510000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1585728520000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1585728530000.bk.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1585728530000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1585728540000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/5b7d84a7-f952-4a7b-92a3-fe2071e92a62/rdd-931/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/5b7d84a7-f952-4a7b-92a3-fe2071e92a62/rdd-931/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/5b7d84a7-f952-4a7b-92a3-fe2071e92a62/rdd-931/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/5b7d84a7-f952-4a7b-92a3-fe2071e92a62/rdd-931/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/5b7d84a7-f952-4a7b-92a3-fe2071e92a62/rdd-931/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/5b7d84a7-f952-4a7b-92a3-fe2071e92a62/rdd-931/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/5b7d84a7-f952-4a7b-92a3-fe2071e92a62/rdd-931/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/5b7d84a7-f952-4a7b-92a3-fe2071e92a62/rdd-931/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/5b7d84a7-f952-4a7b-92a3-fe2071e92a62/rdd-931/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/5b7d84a7-f952-4a7b-92a3-fe2071e92a62/rdd-931/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/5b7d84a7-f952-4a7b-92a3-fe2071e92a62/rdd-957/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/5b7d84a7-f952-4a7b-92a3-fe2071e92a62/rdd-957/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/5b7d84a7-f952-4a7b-92a3-fe2071e92a62/rdd-957/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/5b7d84a7-f952-4a7b-92a3-fe2071e92a62/rdd-957/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/5b7d84a7-f952-4a7b-92a3-fe2071e92a62/rdd-957/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/5b7d84a7-f952-4a7b-92a3-fe2071e92a62/rdd-957/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/5b7d84a7-f952-4a7b-92a3-fe2071e92a62/rdd-957/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/5b7d84a7-f952-4a7b-92a3-fe2071e92a62/rdd-957/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/5b7d84a7-f952-4a7b-92a3-fe2071e92a62/rdd-957/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/5b7d84a7-f952-4a7b-92a3-fe2071e92a62/rdd-957/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1585728470000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1585728480000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1585728490000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1585728500000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1585728500000.bk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1585728510000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1585728520000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1585728530000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1585728530000.bk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1585728540000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1585727427409-1585727487409" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1585727488202-1585727548202" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1585727548203-1585727608203" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1585727608214-1585727668214" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1585727668403-1585727728403" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1585727728407-1585727788407" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1585727788601-1585727848601" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1585727848602-1585727908602" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1585727908603-1585727968603" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1585727969209-1585728029209" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1585728029410-1585728089410" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1585728089415-1585728149415" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1585728150001-1585728210001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1585728210221-1585728270221" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1585728270404-1585728330404" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1585728331216-1585728391216" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1585728391405-1585728451405" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1585728451415-1585728511415" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1585728512205-1585728572205" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2ffe8bc319d514823ca2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2ffe8bc319d514823ca2.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2ffe8bc319d514823ca2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$492e4aa7ad6f695697c8$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$492e4aa7ad6f695697c8.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$492e4aa7ad6f695697c8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$580bd9d8b26954cdd14d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$580bd9d8b26954cdd14d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$580bd9d8b26954cdd14d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7c3e3780eaa405a59d8e$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7c3e3780eaa405a59d8e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7c3e3780eaa405a59d8e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$840967cf4ce4fc454e51$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$840967cf4ce4fc454e51.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$840967cf4ce4fc454e51.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fe0c86aaac62b02dfbe2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fe0c86aaac62b02dfbe2.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fe0c86aaac62b02dfbe2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/SparkStreamTwitt/MostPopHtag.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/SparkStreamTwitt/MostPopHtag.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/SparkStreamTwitt/MostPopHtag$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/SparkStreamTwitt/MostPopHtag$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +109,9 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -26,6 +123,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -65,7 +163,7 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="sparkstreamtwitt [file:/C:/Users/vicma/IdeaProjects/SparkStreamTwitt/]" />
+                <option name="name" value="sparkstreamtwitt [file:/D:/Home%20school/dev/Big%20Data/Projects/SparkStreamTwitt/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
@@ -79,7 +177,6 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3171350348052" />
         <entry key="$PROJECT_DIR$/build.sbt" value="1815462977" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1026143456" />
       </map>
@@ -130,25 +227,33 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="366" y="34" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.689@0.0.1280.689" timestamp="1585674352203" />
-    <state width="725" height="309" key="GridCell.Tab.0.bottom" timestamp="1585728543295">
-      <screen x="-1080" y="-403" width="1080" height="1890" />
+    <state width="864" height="343" key="GridCell.Tab.0.bottom" timestamp="1585911820883">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="725" height="309" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1585728543295" />
+    <state width="864" height="343" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.-1080.1920.1050@0.0.1280.689" timestamp="1585901792305" />
+    <state width="872" height="343" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1585834594638" />
+    <state width="864" height="343" key="GridCell.Tab.0.bottom/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1585911820883" />
     <state width="933" height="290" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1585679105165" />
-    <state width="725" height="309" key="GridCell.Tab.0.center" timestamp="1585728543293">
-      <screen x="-1080" y="-403" width="1080" height="1890" />
+    <state width="864" height="343" key="GridCell.Tab.0.center" timestamp="1585911820883">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="725" height="309" key="GridCell.Tab.0.center/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1585728543293" />
+    <state width="864" height="343" key="GridCell.Tab.0.center/0.0.1280.689/-1080.-1080.1920.1050@0.0.1280.689" timestamp="1585901792305" />
+    <state width="872" height="343" key="GridCell.Tab.0.center/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1585834594638" />
+    <state width="864" height="343" key="GridCell.Tab.0.center/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1585911820883" />
     <state width="933" height="290" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1585679105165" />
-    <state width="725" height="309" key="GridCell.Tab.0.left" timestamp="1585728543292">
-      <screen x="-1080" y="-403" width="1080" height="1890" />
+    <state width="864" height="343" key="GridCell.Tab.0.left" timestamp="1585911820882">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="725" height="309" key="GridCell.Tab.0.left/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1585728543292" />
+    <state width="864" height="343" key="GridCell.Tab.0.left/0.0.1280.689/-1080.-1080.1920.1050@0.0.1280.689" timestamp="1585901792304" />
+    <state width="872" height="343" key="GridCell.Tab.0.left/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1585834594638" />
+    <state width="864" height="343" key="GridCell.Tab.0.left/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1585911820882" />
     <state width="933" height="290" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1585679105164" />
-    <state width="725" height="309" key="GridCell.Tab.0.right" timestamp="1585728543294">
-      <screen x="-1080" y="-403" width="1080" height="1890" />
+    <state width="864" height="343" key="GridCell.Tab.0.right" timestamp="1585911820883">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="725" height="309" key="GridCell.Tab.0.right/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1585728543294" />
+    <state width="864" height="343" key="GridCell.Tab.0.right/0.0.1280.689/-1080.-1080.1920.1050@0.0.1280.689" timestamp="1585901792305" />
+    <state width="872" height="343" key="GridCell.Tab.0.right/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1585834594638" />
+    <state width="864" height="343" key="GridCell.Tab.0.right/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1585911820883" />
     <state width="933" height="290" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1585679105165" />
     <state width="725" height="309" key="GridCell.Tab.1.bottom" timestamp="1585728543296">
       <screen x="-1080" y="-403" width="1080" height="1890" />
